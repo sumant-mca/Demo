@@ -1,0 +1,46 @@
+body {
+	font-family: "Times", serif;
+	}.
+bg-light {
+    background-color: #FFFFFF;
+}
+.mix {
+	width: 99%;
+}
+.over_flow
+{
+	margin-top: -40%;
+    margin-left: -60%;
+}
+.mix2
+{
+	width: 75%;
+	margin-left: 90px;
+}
+.col-lg-4, .col-md-4 ,.col-6 {
+                    padding-right: 45px; 
+                    padding-left: 45px; 
+}
+#first {
+    background: #21AFFF;
+}
+#WhyInocove {
+	color : white;
+	font-size: 2.0rem;
+}
+element.style {
+    background-color: #F5FBFF;
+}	
+.color1 {
+	background:  #21AFFF;
+}
+.rows {
+	background-color: #F5FBFF;
+}
+element.style {
+    background-color: #F5FBFF;
+}
+.btn {
+	border-radius: .75rem;
+	    font-size: 1.5rem;
+}
